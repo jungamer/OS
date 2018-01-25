@@ -1,6 +1,7 @@
 ## 3 从实模式到保护模式  
 [代码](/chapter2/real2protect.asm)  
 
+代码注释  
 ```assembly
 
 %include	"pm.inc"	; 常量, 宏, 以及一些说明
@@ -89,3 +90,6 @@ LABEL_SEG_CODE32:
 SegCode32Len    equ $ - LABEL_SEG_CODE32
 ; END of [SECTION .s32]
 ```
+
+运行结果  
+![运行结果](/res/real2protect.png)
