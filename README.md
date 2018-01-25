@@ -4,7 +4,7 @@
 
 # 实模式下打印HelloWorld
 实现汇编代码;    
-[HelloWorld.asm](/src/chapter1/HelloWorld.asm)  
+[HelloWorld.asm](/chapter1/HelloWorld.asm)  
 汇编代码编译成机器码;      
 nasm HelloWorld.asm -o HelloWorld.bin  
 制作虚拟软盘a.img;    
