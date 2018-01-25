@@ -4,8 +4,8 @@
 - [2 实模式下打印HelloWorld](#2)
 
 <h2 name="2">2 实模式下打印HelloWorld</h2>  
-实现汇编代码;    
-[HelloWorld.asm](/chapter1/HelloWorld.asm)  
+
+实现汇编代码 [HelloWorld.asm](/chapter1/HelloWorld.asm)   
 汇编代码编译成机器码;      
 
 ```bash
