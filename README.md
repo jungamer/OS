@@ -18,5 +18,6 @@ bochs虚拟机启动时, bios加载软盘a.img前512字节到内存0:7c00处并�
 ```bash
 bochs -f ./bochsrc
 ```
+运行结果  
 ![运行结果](/res/HelloWorld.png)
 
