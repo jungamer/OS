@@ -7,7 +7,10 @@
 实现汇编代码;    
 [HelloWorld.asm](/chapter1/HelloWorld.asm)  
 汇编代码编译成机器码;      
+
+```bash
 nasm HelloWorld.asm -o HelloWorld.bin  
+```
 制作虚拟软盘a.img;    
 把机器码HelloWorld.bin写到软盘a.img;  
 
