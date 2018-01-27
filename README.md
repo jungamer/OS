@@ -3,3 +3,4 @@
     - [制作虚拟软盘]
 - [2 实模式下打印HelloWorld](/chapter1/README.md)
 - [3 从实模式到保护模式](/chapter2/README.md)
+- [4 C与汇编相互调用](/chapter5/README.md)
