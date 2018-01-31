@@ -62,3 +62,5 @@ LABEL_TSS:
 		DB	0ffh			; I/O位图结束标志
 TSSLen		equ	$ - LABEL_TSS
 ```
+运行结果
+![运行结果](/res/ring02ring3.png)
